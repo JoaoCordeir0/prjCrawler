@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjCrawler", "prjCrawler\prjCrawler.csproj", "{A94B1CDF-1604-4800-82D1-FAD27A6D62C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94B1CDF-1604-4800-82D1-FAD27A6D62C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94B1CDF-1604-4800-82D1-FAD27A6D62C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94B1CDF-1604-4800-82D1-FAD27A6D62C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94B1CDF-1604-4800-82D1-FAD27A6D62C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76275F25-8C21-4901-B0BB-6D9DAF0BA295}
+	EndGlobalSection
+EndGlobal
