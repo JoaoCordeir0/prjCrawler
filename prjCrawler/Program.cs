@@ -44,7 +44,7 @@ namespace prjCrawler
                 // Indice 3 para obter o botão excluir               
 
                 var flux01 = new Thread(() => CountEmails(trs));
-                flux01.Name = "Thread-CountEmail";
+                flux01.Name = "Thread-CountEmails";
                 flux01.Priority = ThreadPriority.Highest;
                 flux01.Start();
 
